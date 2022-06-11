@@ -28,7 +28,6 @@ the script ends.  If not, it is created, and then a commit is performed.
 """
 
 import sys
-
 import panos
 import panos.firewall
 import panos.policies
